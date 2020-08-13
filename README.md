@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there, I'm Doug 👋
+
+I'm a Data Scientist with an education in economics.
+My favorite tools to use are Python, with its litany of libraries- numpy pandas and sklearn to name a few, as well as SQL and AWS, though I am also familiar with Stata and Tableau. 
+I'm driven by a strong sense of intellectual curiousity, the thrill of solving puzzles or other complex problems, and the satisfaction I get from helping others and making a positive difference. 
+
+I'm currently working on an inquiry into how the economic retraction caused by Covid-19 in the U.S. is effecting the energy industry, and learning more about utilizing Amazon Web Services. 
+
 
 <!--
 **dougtheeconomist/dougtheeconomist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
