@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/EMAIL-douglass.hart@outlook.com-20b2aa?style=for-the-badge"/>
   </a>
 
-I'm a Data Scientist with an education in economics.
+I'm a Data Scientist with an educational background in econometrics and finance.
 My favorite tools to use are Python, with its litany of libraries- numpy, pandas and sklearn to name a few, as well as SQL and AWS, though I am also familiar with other programs such as Stata and Tableau. 
 I'm driven by a strong sense of intellectual curiousity, the thrill of solving puzzles or other complex problems, and the satisfaction I get from helping others and making a positive difference. 
 
