@@ -1,10 +1,20 @@
 ### Hello there, I'm Doug 👋
 
+<!-- LinkedIn Contact -->
+  <a href="https://www.linkedin.com/in/douglass-hart-46b20672/" target="_blank">
+    <img src="https://img.shields.io/badge/-DOUG%20HART-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  
+<!-- Email -->
+  <a href="mailto:douglass.hart@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-douglass.hart@outlook.com-20b2aa?style=for-the-badge"/>
+  </a>
+
 I'm a Data Scientist with an education in economics.
-My favorite tools to use are Python, with its litany of libraries- numpy pandas and sklearn to name a few, as well as SQL and AWS, though I am also familiar with Stata and Tableau. 
+My favorite tools to use are Python, with its litany of libraries- numpy, pandas and sklearn to name a few, as well as SQL and AWS, though I am also familiar with other programs such as Stata and Tableau. 
 I'm driven by a strong sense of intellectual curiousity, the thrill of solving puzzles or other complex problems, and the satisfaction I get from helping others and making a positive difference. 
 
-I'm currently working on an inquiry into how the economic retraction caused by Covid-19 in the U.S. is effecting the energy industry, and learning more about utilizing Amazon Web Services. 
+I'm currently working on strengthening my skillset and looking for opportunities to put that skillset to good use. 
 
 
 <!--
