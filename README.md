@@ -11,10 +11,13 @@
   </a>
 
 I'm a Data Scientist with an educational background in econometrics and finance.
+I'm driven by a strong sense of intellectual curiousity, the thrill of solving puzzles or other complex problems, and the satisfaction I get from helping others and making a positive difference. The intersection of of these passions brought me first to econometrics or the empirical research side of economics, which is built upon advanced math and statistics and focuses on using traditional linear based time-series methodology to model data and answer questions. I eventually built upon this foundation by learning to code in Python and with the help of a technical, immersive certification program, moving into the field of data science, which builds on this background with machine learning and deep learning techniques as well as the ability to describe and extract insights from a much wider range of data types, and structure to solve a more diverse set of problems than the field of economics is typically interested in.  
 My favorite tools to use are Python, with its litany of libraries- numpy, pandas and sklearn to name a few, as well as SQL and AWS, though I am also familiar with other programs such as Stata and Tableau. 
-I'm driven by a strong sense of intellectual curiousity, the thrill of solving puzzles or other complex problems, and the satisfaction I get from helping others and making a positive difference. 
+ 
 
 I'm currently working on strengthening my skillset and looking for opportunities to put that skillset to good use. 
+
+My current endeavor is to use Python to recreate and automate the forecasting models I once used for predicting changes in the U.S. economy with Stata and then to attempt to achieve more accurate results by ensambling these models with a deep learning approach. 
 
 
 <!--
